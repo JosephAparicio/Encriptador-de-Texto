@@ -21,11 +21,11 @@ gaitober" => "gato"
 
 Al momento de encriptar un texto,en el bloque de la derecha, se habilitará un botón COPIAR. Este botón sirve para seleccionar el texto encriptado y copiarlo en su ordenador. 
 
-Guía de usuario:
+3. Guía de usuario:
 Introduzca el texto que desea encriptar.
 Presionar el botón encriptar (Hay un aviso encima de este botón para que se cumpla los criterios mencionados anteriormente)
 El texto encriptado podrá ser copiado con el boton COPIAR que se habilitará en el lado derecho.
 Luego de encriptar un texto, puede desencriptar el texto generado.
 
-Cualquier consulta -> joseph_539_11@hotmail.com
-Autor: JosephAparicio
+4. Cualquier consulta -> joseph_539_11@hotmail.com
+5. Autor: Joseph Aparicio

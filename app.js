@@ -97,10 +97,15 @@ btnDesencriptar.addEventListener("click", e=>{
     const contieneNumeros = /\d/.test(texto);
     
     if(texto == ""){
+        respuesta.innerHTML = '';
         aviso.style.background = "#0A3871";
         aviso.style.color = "#FFFF";
         aviso.style.fontWeight = "800";
         aviso.textContent = "El campo de texto no debe estar vacio";
+
+        if(contenido_guardado){
+            copia_contenido.appendChild(contenido_guardado);
+        }
         
         setTimeout(()=>{
             aviso.removeAttribute("style");
